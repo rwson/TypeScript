@@ -12,5 +12,5 @@
     
 来编译该文件,在相同目录下输出hello.js和hello.js.map两个文件
 
-![WebStorm TypeScript编译器配置](https://github.com/rwson/TypeScript/config.png)
+![WebStorm TypeScript编译器配置](https://github.com/rwson/TypeScript/blob/master/config.png)
 
